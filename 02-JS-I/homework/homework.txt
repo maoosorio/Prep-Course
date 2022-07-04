@@ -1,0 +1,9 @@
+Variables
+
+Strings
+
+Funciones
+
+Declaraciones
+
+Valores Booleanos
