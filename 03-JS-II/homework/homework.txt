@@ -1,0 +1,5 @@
+for
+    es un ciclo repetitivo que se rompe al momento de llegar a la condición que nosotros buscamos, por ejemplo tu quieres que ya sean las 11 para salir al recreo, pero apenas son las 8, entonces revisas en una hora y checas el reloj, aun no son las 11, son las 9 y asi cada hora, cuando al fin son las 11 ahora si ya puedes salir al recreo.
+
+&& || !
+    estos simbolos raros se llaman operadores lógicos y se usan para combinar expresiones, el primero de ellos se llama and '&&' y se usa para evaluar que dos expresiones sean verdaderas, para devolver otro verdadero, en caso de que una de ellas no sea verdadera pues devolvera falso. el segundo se llama or '||' este operador se usa cuando escribes dos expresiones buscando que al menos una de ellas sea verdadera entonces regresa verdadero, en caso de que ambas sean falsas regresara falso. por último el operador not '!' que regresa el valor booleano opuesto al valor que tienes nuestra vairable, por decir si decimos que x es igual a true y si pones !x entonces el valor seria false.
